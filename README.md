@@ -1,0 +1,2 @@
+# exrateTrainings
+Exchange rates - training
